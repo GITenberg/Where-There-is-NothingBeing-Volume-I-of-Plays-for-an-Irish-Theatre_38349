@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1719
     wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38349#Where-There-is-NothingBeing-Volume-I-of-Plays-for-an-Irish-Theatre
 gutenberg_issued: '2011-12-20'
 gutenberg_type: Text
 identifiers:
