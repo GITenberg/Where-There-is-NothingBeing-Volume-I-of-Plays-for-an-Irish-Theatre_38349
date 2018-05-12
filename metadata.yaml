@@ -1,0 +1,31 @@
+_repo: Where-There-is-NothingBeing-Volume-I-of-Plays-for-an-Irish-Theatre_38349
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yeats, W. B. (William Butler)
+    alias: Yeats, William Butler
+    birthdate: 1865
+    deathdate: 1939
+    gutenberg_agent_id: '1719'
+    url: http://www.gutenberg.org/2009/agents/1719
+    wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
+description: ''
+gutenberg_issued: '2011-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ireland -- Drama'
+- !lcsh 'English drama -- Irish authors'
+title: 'Where There is Nothing
+
+  Being Volume I of Plays for an Irish Theatre'
+url: http://www.gutenberg.org/ebooks/38349
